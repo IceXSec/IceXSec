@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm IceXSec</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm IceX</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IceXSec" alt="IceXSec" /> </p>
 <br />
 
